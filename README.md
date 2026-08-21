@@ -1,4 +1,5 @@
 # 🧬 GroupDNA: The Group Chat Exposed
+![GroupDNA Poster](poster.png)
 
 **"Spotify Wrapped, but to settle debates in the friend group."**
 
