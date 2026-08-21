@@ -20,7 +20,7 @@ To make this a real challenge, I banned myself from using high-level data scienc
 ## 🚀 Try It on Your Own Friends
 
 1. Export a WhatsApp chat without media.
-2. Rename the exported text file to `GroupChat.txt`.
+2. Rename the exported text file to `#your_own_chatfile`.
 3. Drop it in the same directory as the script.
 4. Run the Python notebook to generate your terminal dashboard.
 
